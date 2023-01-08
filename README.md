@@ -12,7 +12,7 @@ Welcome to my first portfolio! This is a simple adn was my firsr porfolio when i
 
 ## Screenshots
 
-![Screenshot of homepage](/screenshots/homepage.png)
+![Screenshot of homepage](/screenshots/home.png)
 ![Screenshot of contact page](/screenshots/contact.png)
 
 ## Future Plans
