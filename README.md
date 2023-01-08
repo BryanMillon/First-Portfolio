@@ -13,7 +13,7 @@ Welcome to my first portfolio! This is a simple adn was my firsr porfolio when i
 ## Screenshots
 
 ![Screenshot of homepage](/screenshots/home.png)
-![Screenshot of contact page](/screenshots/contact.png)
+![Screenshot of about page](/screenshots/about.png)
+![Screenshot of skills page](/screenshots/skills.png)
+![Screenshot of contact page](/screenshots/ContactMe.png)
 
-## Future Plans
-I plan to continue updating and improving this portfolio as I learn new skills and technologies. Stay tuned for more updates!
