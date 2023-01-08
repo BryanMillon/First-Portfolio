@@ -1,6 +1,6 @@
 # My First Portfolio
 
-Welcome to my first portfolio! This is a simple adn was my firsr porfolio when i started to code, static website that I created using just HTML and CSS. It is fully responsive and looks great on all devices.
+Welcome to my first portfolio! This is a simple app, this was my first porfolio when i started to code, static website that I created using just HTML and CSS. It is fully responsive and looks great on all devices.
 
 ## Technologies Used
 - HTML
